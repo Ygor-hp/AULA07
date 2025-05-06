@@ -37,4 +37,4 @@ def soma(*a):
     soma=0
     for x in range(len(a)):
         soma=soma+a[x]
-    print(soma)    
+    print(soma)
